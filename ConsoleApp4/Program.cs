@@ -7,7 +7,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Meni se neda! :)");
+            Console.WriteLine("Meni se neda! :)"); // NI MENI LOOL
         }
     }
 }
